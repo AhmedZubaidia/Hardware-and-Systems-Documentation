@@ -1,0 +1,12 @@
+# Editor / IDE state
+.vscode/
+.idea/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Microsoft Office temp files
+~$*.doc*
+~$*.xls*
+~$*.ppt*

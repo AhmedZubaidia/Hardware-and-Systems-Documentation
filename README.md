@@ -62,6 +62,54 @@ Every PDF is preserved exactly as submitted — including the original Birzeit U
 
 ---
 
+## Lab Gallery
+
+A small visual companion to the report archive — bench photos and oscilloscope captures from the same lab sessions that produced the PDFs above.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/oscilloscope_analog_sine_wave.jpg" alt="Oscilloscope capture of an analog sine wave" width="100%" />
+      <br /><sub><b>Analog domain</b> &mdash; sine-wave capture from the bench oscilloscope (Circuits &amp; Electronics Lab).</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/oscilloscope_digital_square_wave.png" alt="Oscilloscope capture of a digital square wave" width="100%" />
+      <br /><sub><b>Digital domain</b> &mdash; square wave verifying clean logic-level transitions.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/digital_logic_trainer_board.png" alt="Digital logic trainer board with patch wiring" width="100%" />
+      <br /><sub><b>Digital Logic Trainer</b> &mdash; combinational circuit wired on the trainer kit (Digital Lab Exp. 3).</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/custom_integrated_pcb_topdown.jpg" alt="Custom integrated PCB top-down view" width="100%" />
+      <br /><sub><b>Integrated build</b> &mdash; top-down view of a custom PCB assembled during lab work.</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h3>Hardware Interrupt Demonstration</h3>
+
+<video src="assets/hardware_interrupt_button_demo.mp4"
+       controls muted autoplay loop playsinline
+       width="720">
+  Your browser does not support embedded video.
+  <a href="assets/hardware_interrupt_button_demo.mp4">Download the clip</a>.
+</video>
+
+<p><sub>Push-button event triggering an MCU interrupt service routine on the target board.</sub></p>
+
+</div>
+
+> Note: GitHub's Markdown renderer does not execute the `<video>` attributes inline; the clip plays inline on platforms that allow raw HTML5 (Pages, docs sites) and is available as a download link on github.com itself.
+
+---
+
 ## Co-Author Consent
 
 Four of the six reports are co-authored and are published here with the explicit consent of every collaborator listed below. The remaining two (`signals_matlab_step_pulse_generation_project_report.pdf`, `communication_systems_fourier_series_ssb_modulation_report.pdf`) are solo work.
